@@ -5,10 +5,10 @@ I love problem solving and I'm currently focusing on backend development.
 
 I believe the best way to learn is by actually building things, breaking them, fixing them, and understanding how everything works behind the scenes.
 
-# What I Do
+## What I Do
 I build projects to practice what I learn, improve my problem-solving skills, and strengthen my understanding of programming concepts.
 
-# Fun Facts
+## Fun Facts
 - I like dogs and cats
 - I enjoy experimenting with hardware and software
 - My Hero Academia is my favorite anime
