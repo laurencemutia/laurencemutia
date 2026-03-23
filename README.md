@@ -13,6 +13,12 @@ I build projects to practice what I learn, improve my problem-solving skills, an
 - I enjoy experimenting with hardware and software
 - My Hero Academia is my favorite anime
 - **Hobbies:** anime, coding/building, and learning tech
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,java,mysql,linux" />
+  </a>
+</p>
 <!--
 **laurencemutia/laurencemutia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
