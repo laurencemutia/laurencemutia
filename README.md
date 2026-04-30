@@ -7,7 +7,6 @@ I love problem solving and I'm currently focusing on backend development.
 I build projects to practice what I learn, improve my problem-solving skills, and strengthen my understanding of programming concepts.
 
 ## Fun Facts
-- I like dogs and cats
 - I enjoy experimenting with hardware and software
 - **Hobbies:** anime, coding/building, and learning tech
 
