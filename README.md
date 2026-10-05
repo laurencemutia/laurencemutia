@@ -6,12 +6,18 @@
 
 <hr>
 
-<p><code>Aspiring Backend Developer, Linux User</code></p>
+<p align="center"><code>Aspiring Backend Developer, Linux User</code></p>
 
 <hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,bootstrap,java,javascript,mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laurencemutia">
+    <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=laurencemutia&layout=compact&langs_count=4&hide_values=true&theme=dark_github" alt="Top Languages" />
   </a>
 </p>
