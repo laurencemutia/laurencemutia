@@ -4,11 +4,7 @@
   <a href="https://www.instagram.com/laurenceharmonic?stkn=cnY2NzRnb2h5ZWY1">Instagram</a>
 </h3>
 
-<hr>
-
 <p align="center"><code>Aspiring Backend Developer, Linux User</code></p>
-
-<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
