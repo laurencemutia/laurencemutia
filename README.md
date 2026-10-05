@@ -1,31 +1,17 @@
-## Hey there :smile_cat:👋
-I'm Laurence, a Java developer in progress who is focused on building real-world projects and improving step by step.
+<h1 align="center">👋 Hey there! I'm Laurence Mutia</h1>
+<h3 align="center">
+  <a href="https://linkedin.com/in/laurence-mutia">LinkedIn</a>
+  <a href="https://www.instagram.com/laurenceharmonic?stkn=cnY2NzRnb2h5ZWY1">Instagram</a>
+</h3>
 
-I love problem solving and I'm currently focusing on backend development.
+<hr>
 
-## What I Do
-I build projects to practice what I learn, improve my problem-solving skills, and strengthen my understanding of programming concepts.
+<p><code>Aspiring Backend Developer, Linux User</code></p>
 
-## Fun Facts
-- I enjoy experimenting with hardware and software
-- **Hobbies:** anime, coding/building, and learning tech
+<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,mysql,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bootstrap,java,javascript,mysql" />
   </a>
 </p>
-<!--
-**laurencemutia/laurencemutia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
